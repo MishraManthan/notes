@@ -1,0 +1,9 @@
+#q{
+    text-transform: uppercase;
+}
+#w{
+    text-transform: capitalize;
+}
+#e{
+    text-transform: lowercase;
+}
